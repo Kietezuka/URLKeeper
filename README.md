@@ -49,7 +49,8 @@ Anyone can view, add, or delete data. Please use it for demonstration only — d
 
 Firebase structure:
 
-```leads: {
+```Firebase
+leads: {
   uniqueKey1: [url, memo],
   uniqueKey2: [url, memo],
   ...
