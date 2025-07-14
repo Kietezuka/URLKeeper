@@ -8,8 +8,7 @@ URLKeeper is a simple, Firebase-powered web app for saving and organizing URLs a
 
 <https://urlkeeper.netlify.app/>
 
-⚠️ This demo uses a public Firebase database with no authentication.
-Anyone can view, add, or delete data. Please use it for demonstration only — do not store sensitive information.
+⚠️ Public Demo Notice: This version of URLKeeper uses a public Firebase Realtime Database with no authentication. Anyone with access to the demo can view, add, or delete data. Please use it for demonstration purposes only — do not store personal or sensitive information.
 
 ## Features
 
@@ -66,6 +65,6 @@ leads: {
 
 - No tracking
 
-- All data is saved only to your personal Firebase database
+- In the published version, all data is stored in a Firebase database tied to this specific project. For personal use, consider setting up your own Firebase instance.
 
 - No login required
